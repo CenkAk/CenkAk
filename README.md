@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C# and Python<br>📫 How to reach me: cenkakcadogan@gmail.com<br>
+🌱 I’m currently learning Python<br>📫 How to reach me: cenkakcadogan@gmail.com<br>
 
 
 ## 🌐 Socials:
