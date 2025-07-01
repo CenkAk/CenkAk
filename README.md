@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>📫 How to reach me: cenkakcadogan@gmail.com<br>
+📫 How to reach me: cenkakcadogan@gmail.com<br>
 
 
 ## 🌐 Socials:
