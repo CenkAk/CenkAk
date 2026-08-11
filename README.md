@@ -66,10 +66,6 @@ A production-style fraud detection system combining machine learning, streaming,
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-## Engineering approach
-
-I care about clean architecture, secure defaults, measurable behavior, automated validation, and documentation that reflects how a system actually works. My recent projects span consumer mobile apps, AI-powered experiences, full-stack product sites, and real-time machine-learning platforms.
-
 ---
 
 <div align="center">
