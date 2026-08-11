@@ -10,7 +10,7 @@ My background also spans mobile and full-stack product development, which I use 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Orhan%20Cenk%20Akcadoğan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/orhancenkakcadogan)
 [![Email](https://img.shields.io/badge/Email-cenkakcadogan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cenkakcadogan@gmail.com)
-[![X](https://img.shields.io/badge/X-@CenkAllan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/CenkAllan)
+[![Instagram](https://img.shields.io/badge/Instagram-@imcenkk-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imcenkk)
 
 </div>
 
