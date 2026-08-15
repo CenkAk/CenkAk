@@ -2,14 +2,13 @@
 
 # Orhan Cenk Akcadoğan
 
-<a href='https://cenkakcadogan.com/'>cenkakcadogan.com
-
 ### Applied AI / Machine Learning Engineer
 
 I build end-to-end machine learning systems that move beyond notebooks and into usable products: data pipelines, model training and evaluation, APIs, real-time processing, observability, deployment, and user-facing applications.
 
 My background also spans mobile and full-stack product development, which I use to turn ML work into complete systems rather than isolated models.
 
+[![Website](https://img.shields.io/badge/Website-cenkakcadogan.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://cenkakcadogan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Orhan%20Cenk%20Akcadoğan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/orhancenkakcadogan)
 [![Email](https://img.shields.io/badge/Email-cenkakcadogan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cenkakcadogan@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@imcenkk-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imcenkk)
